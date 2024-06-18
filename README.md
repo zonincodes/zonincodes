@@ -24,6 +24,8 @@
 ![MongoDB](https://img.shields.io/badge/Postgres-pink?style=for-the-badge&logo=postgresql&logoColor=)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SurrealDb-purple?style=for-the-badge&logo=surrealdb&logoColor=red)
+
 
 #### 🛸 - Hosting Services and Web Tools:
 ![Netlify](https://img.shields.io/badge/vercel-00C7B7?style=for-the-badge&logo=vercel&logoColor=black)
